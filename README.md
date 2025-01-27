@@ -39,5 +39,8 @@ b. **Sign In:**
 5. **Start Running the Notebook:**
    - Once the notebook loads, you can execute cells individually by clicking the **play** button next to each cell **(or)**
    - To run the entire notebook at once, navigate to the top menu and select **"Runtime" > "Run all"**.
+     
+## Or else 
+- You can download the Zip File and Upload into google colab and compile each file correspondingly and Follow 5th Step from above to compile file as per your wish
 
 
