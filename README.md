@@ -37,7 +37,7 @@ There are two primary methods to open your GitHub notebooks in Colab:
      - `step_3.ipynb`
 
 5. **Start Running the Notebook:**
-   - Once the notebook loads, you can execute cells individually by clicking the **play** button next to each cell.
+   - Once the notebook loads, you can execute cells individually by clicking the **play** button next to each cell **(or)**
    - To run the entire notebook at once, navigate to the top menu and select **"Runtime" > "Run all"**.
 
 
