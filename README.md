@@ -32,7 +32,8 @@ There are two primary methods to open your GitHub notebooks in Colab:
 4. **Select the Desired Notebook:**
    - A list of Jupyter Notebooks from the repository will appear.
    - Click on the notebooks you wish to open, such as:
-     - `step_1.ipynb`
+     **Note** : first run step_1.ipynb
+     - `step_1.ipynb` 
      - `step_2.ipynb`
      - `step_3.ipynb`
 
