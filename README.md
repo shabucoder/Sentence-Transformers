@@ -12,9 +12,8 @@ b. **Sign In:**
 
 ### 2. Open the Notebook from GitHub in Colab
 
-There are two primary methods to open your GitHub notebooks in Colab:
 
-#### **Method 1: Using the "GitHub" Tab in Colab**
+#### Use the "GitHub" Tab in Colab**
 
 1. **On the Colab Welcome Page:**
    - Click on the **"GitHub"** tab located at the top of the dialog box.
